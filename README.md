@@ -15,6 +15,7 @@ This project is a deployable starter kit for easily building and customizing you
 The primary goal of this project, beyond just being a lot of fun to work on, is to provide a platform with a strong foundation that is meant to be extended. The back-end engine natively supports shared global state, transactions, and a journal of all events so should be suitable for everything from a simple project to play around with to a scalable, multi-player game. A secondary goal is to make a JS/TS framework available as most simulators in this space (including the original paper above) are written in Python.
 
 ## test semgrep 8/30 10:12
+# test 2 added token
 
 ## Overview
 
